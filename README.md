@@ -1,6 +1,9 @@
 Rake Shed
 =========
+A modular collection of useful Rake snippets
 
+What?
+-----
 Over time, we all collect snippets of build scripts which we hang on to. This project is a modular collection of the Rake tasks I've found most useful.
 
 What do I do with this?
